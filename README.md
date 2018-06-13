@@ -28,7 +28,7 @@ class Example {
   
   function __construct() {
     // Instantiate the BitshareClient class instance 
-    $client = new BitshareClient();
+    $this->client = new BitshareClient();
   }
   
   // Using CryptoBridge pairs, b-hash (HASH) and Bitcoin (BTC)
