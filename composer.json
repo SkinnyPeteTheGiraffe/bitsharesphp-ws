@@ -1,0 +1,24 @@
+{
+    "name": "notorious/bitsharesphp-ws",
+    "description": "A PHP websocket interface for Bitshares.",
+    "keywords": ["php", "websocket", "bitshares", "cryptobridge", "api", "graphene", "crypto", "bitcoin", "altcoins"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bobby Plunkett",
+            "email": "notoriousbpp@protonmail.com"
+        }
+    ],
+    "type": "project",
+    "require": {
+		"php": ">=5.4"
+    },
+	"require-dev": {
+		"phpunit/phpunit": "5.2.*"
+    },
+	"autoload": {
+        "psr-4": {
+            "Notorious\\": "src/"
+        }
+    }
+}
