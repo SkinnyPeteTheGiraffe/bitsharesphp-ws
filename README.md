@@ -1,16 +1,12 @@
-Composer Library Template
+BitsharesPHP-WS
 =========================
 
-If you are trying to create a new PHP Composer library, whether it will be going to submitted to packagist.org or just in your Github account, this template of files will surely help you make the process a lot easier and faster.
+A very basic implementation of [bitsharesjs-ws](https://github.com/bitshares/bitsharesjs-ws) written in pure PHP. Which _"can be used to easily connect to and obtain data from the Bitshares blockchain via public apis or local nodes"_.
 
-Features
+Setup
 --------
+```cmd
+Coming Soon
+```
 
-* PSR-4 autoloading compliant structure
-* Unit-Testing with PHPUnit
-* Comprehensive Guides and tutorial
-* Easy to use to any framework or even a plain php file
-
-
-I encourage that you put more information on this readme file instead of leaving it as is. See [http://www.darwinbiler.com/designing-and-making-the-readme-file-for-your-github-repository/](How to make a README file) for more info.
 # bitsharesphp-ws
