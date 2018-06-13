@@ -1,10 +1,10 @@
 <?php
 
-namespace Notorious\BitsharesPHP\Bitshares;
+namespace Notorious\BitsharesPHP;
 
 use WebSocket\Client;
-use Notorious\BitsharesPHP\Bitshares\API\MarketAPI;
-use Notorious\BitsharesPHP\Bitshares\Utils\Helpers;
+use Notorious\BitsharesPHP\API\MarketAPI;
+use Notorious\BitsharesPHP\Utils\Helpers;
 
 
 class BitshareClient {

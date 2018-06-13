@@ -1,6 +1,6 @@
 <?php
 
-namespace Notorious\BitsharesPHP\Bitshares\Utils;
+namespace Notorious\BitsharesPHP\Utils;
 
 class Helpers {
 

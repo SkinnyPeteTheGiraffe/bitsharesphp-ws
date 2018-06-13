@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Exchanges\API\Impl\Bitshares\API;
+namespace Notorious\BitsharesPHP\API;
 
-use Notorious\BitsharesPHP\Bitshares\BitshareClient;
+use Notorious\BitsharesPHP\BitshareClient;
 
 class MarketAPI {
 
