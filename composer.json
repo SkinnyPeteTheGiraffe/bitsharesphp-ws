@@ -10,7 +10,6 @@
         }
     ],
     "type": "project",
-    "minimum-stability": "dev",
     "require": {
 		"php": ">=5.4",
         "textalk/websocket": "1.0.*"
